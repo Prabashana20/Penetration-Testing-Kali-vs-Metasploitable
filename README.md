@@ -58,10 +58,9 @@ Screenshots are located in the `/screenshots/` folder and include:
 
 ## 👨‍💻 Author
 
-**Your Name**  
-Email: your.email@example.com  
-GitHub: [yourusername](https://github.com/yourusername)  
-LinkedIn: [your LinkedIn](https://linkedin.com/in/yourlinkedin)
+**Prabashana Kaveen**  
+Email: prabashanapiris1234@gmail.com 
+
 
 ---
 
